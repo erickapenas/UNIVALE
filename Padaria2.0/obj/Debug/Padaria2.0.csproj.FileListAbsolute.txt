@@ -1,0 +1,7 @@
+C:\Users\Erick\source\repos\Padaria2.0\bin\Debug\Padaria2.0.exe.config
+C:\Users\Erick\source\repos\Padaria2.0\bin\Debug\Padaria2.0.exe
+C:\Users\Erick\source\repos\Padaria2.0\bin\Debug\Padaria2.0.pdb
+C:\Users\Erick\source\repos\Padaria2.0\obj\Debug\Padaria2.0.csproj.AssemblyReference.cache
+C:\Users\Erick\source\repos\Padaria2.0\obj\Debug\Padaria2.0.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\Padaria2.0\obj\Debug\Padaria2.0.exe
+C:\Users\Erick\source\repos\Padaria2.0\obj\Debug\Padaria2.0.pdb

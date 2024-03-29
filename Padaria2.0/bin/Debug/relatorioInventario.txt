@@ -1,0 +1,15 @@
+RELATÓRIO DE INVENTÁRIO
+Data e Hora: 28/11/2023 23:02:41
+
+Produto: Agua
+Valor Unitário: R$1,99
+Quantidade em Estoque: 99
+Data de Fabricação: 28/11/2023
+Prazo de Validade: 10 dias
+
+Produto: Banana
+Valor Unitário: R$2,5
+Quantidade em Estoque: 100
+Data de Fabricação: 23/11/2023
+Prazo de Validade: 10 dias
+
