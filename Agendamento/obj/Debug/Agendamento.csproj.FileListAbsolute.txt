@@ -1,0 +1,7 @@
+C:\Users\Erick\source\repos\Agendamento\bin\Debug\Agendamento.exe.config
+C:\Users\Erick\source\repos\Agendamento\bin\Debug\Agendamento.exe
+C:\Users\Erick\source\repos\Agendamento\bin\Debug\Agendamento.pdb
+C:\Users\Erick\source\repos\Agendamento\obj\Debug\Agendamento.csproj.AssemblyReference.cache
+C:\Users\Erick\source\repos\Agendamento\obj\Debug\Agendamento.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\Agendamento\obj\Debug\Agendamento.exe
+C:\Users\Erick\source\repos\Agendamento\obj\Debug\Agendamento.pdb
