@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Runtime.Serialization.Formatters.Binary;
 
-//Alunos: Erick Martins, Erick Miguel Ferreira Conserva
+//Aluno: Erick Martins
 
 namespace PadariaPaoPrecioso
 {
