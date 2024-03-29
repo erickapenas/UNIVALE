@@ -1,4 +1,8 @@
-﻿using System;
+// Erick Martins
+// @erickapenas
+// Sistema de RESERVA usando LISTA
+
+using System;
 using System.Collections.Generic;
 
 public class Program
