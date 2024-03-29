@@ -1,0 +1,14 @@
+C:\Users\Erick\source\repos\Reserva\Reserva\bin\Debug\net9.0\Reserva.exe
+C:\Users\Erick\source\repos\Reserva\Reserva\bin\Debug\net9.0\Reserva.deps.json
+C:\Users\Erick\source\repos\Reserva\Reserva\bin\Debug\net9.0\Reserva.runtimeconfig.json
+C:\Users\Erick\source\repos\Reserva\Reserva\bin\Debug\net9.0\Reserva.dll
+C:\Users\Erick\source\repos\Reserva\Reserva\bin\Debug\net9.0\Reserva.pdb
+C:\Users\Erick\source\repos\Reserva\Reserva\obj\Debug\net9.0\Reserva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\source\repos\Reserva\Reserva\obj\Debug\net9.0\Reserva.AssemblyInfoInputs.cache
+C:\Users\Erick\source\repos\Reserva\Reserva\obj\Debug\net9.0\Reserva.AssemblyInfo.cs
+C:\Users\Erick\source\repos\Reserva\Reserva\obj\Debug\net9.0\Reserva.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\Reserva\Reserva\obj\Debug\net9.0\Reserva.dll
+C:\Users\Erick\source\repos\Reserva\Reserva\obj\Debug\net9.0\refint\Reserva.dll
+C:\Users\Erick\source\repos\Reserva\Reserva\obj\Debug\net9.0\Reserva.pdb
+C:\Users\Erick\source\repos\Reserva\Reserva\obj\Debug\net9.0\Reserva.genruntimeconfig.cache
+C:\Users\Erick\source\repos\Reserva\Reserva\obj\Debug\net9.0\ref\Reserva.dll
