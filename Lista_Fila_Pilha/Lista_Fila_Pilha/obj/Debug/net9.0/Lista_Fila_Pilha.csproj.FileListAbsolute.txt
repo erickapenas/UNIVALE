@@ -1,0 +1,14 @@
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\obj\Debug\net9.0\Lista_Fila_Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\obj\Debug\net9.0\Lista_Fila_Pilha.AssemblyInfoInputs.cache
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\obj\Debug\net9.0\Lista_Fila_Pilha.AssemblyInfo.cs
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\obj\Debug\net9.0\Lista_Fila_Pilha.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\bin\Debug\net9.0\Lista_Fila_Pilha.exe
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\bin\Debug\net9.0\Lista_Fila_Pilha.deps.json
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\bin\Debug\net9.0\Lista_Fila_Pilha.runtimeconfig.json
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\bin\Debug\net9.0\Lista_Fila_Pilha.dll
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\bin\Debug\net9.0\Lista_Fila_Pilha.pdb
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\obj\Debug\net9.0\Lista_Fila_Pilha.dll
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\obj\Debug\net9.0\refint\Lista_Fila_Pilha.dll
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\obj\Debug\net9.0\Lista_Fila_Pilha.pdb
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\obj\Debug\net9.0\Lista_Fila_Pilha.genruntimeconfig.cache
+C:\Users\Erick\source\repos\Lista_Fila_Pilha\Lista_Fila_Pilha\obj\Debug\net9.0\ref\Lista_Fila_Pilha.dll
